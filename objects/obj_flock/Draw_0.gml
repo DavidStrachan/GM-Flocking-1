@@ -16,5 +16,5 @@ if (point_distance(x,y,mouse_x,mouse_y) < 40) {
 //}
 
 
-draw_set_colour(make_colour_hsv(speed_var*225,255,255))
-draw_circle(x,y,5,false)
+//draw_set_colour(make_colour_hsv(speed_var*225,255,255))
+//draw_circle(x,y,5,false)
